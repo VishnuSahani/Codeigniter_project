@@ -1,0 +1,35 @@
+.fa-edit{
+  color:white;
+}
+
+.fa-edit:hover{
+  color:red;
+  padding: 2px;
+}
+
+.fa-eye:hover{
+  color:white;
+  padding: 2px;
+}
+
+.fa-trash-alt{
+  color:red;
+}
+
+.fa-trash-alt:hover{
+  color:white;
+  padding: 2px;
+}
+
+/*customer profile css*/
+
+.validate_error{
+	background-color: pink;
+	
+
+}
+
+span{
+	font-weight: bold;
+}
+
